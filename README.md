@@ -1,7 +1,7 @@
 Burnbook
 ======================
 
-*Burnbook is the anti-social network. Connect your social media profiles to Burnbook to create a 'Burnlist' -- A collection of individuals you would like to avoid, your Burnlist will notify you if anyone on your Burnlist is in your area.*
+Burnbook is the anti-social network. Connect your social media profiles to Burnbook to create a 'Burnlist' -- A collection of individuals you would like to avoid, your Burnlist will notify you if anyone on your Burnlist is in your area.
 
 ## Features under development
 1. Users - Normal User Registraions & Social Networks Auths
@@ -13,12 +13,12 @@ Burnbook
 7. Burnlist sharing 
 
 ## Burnbook Status
-*Initial build*
+Initial build
 
 
 ## Requirements
-*None, yo.*
+None, yo.
 
 
 ## License
-*GNU GENERAL PUBLIC LICENSE*
+GNU GENERAL PUBLIC LICENSE
