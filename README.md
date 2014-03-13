@@ -13,7 +13,7 @@ Burnbook is the anti-social network. Connect your social media profiles to Burnb
 7. Burnlist sharing 
 
 ## Burnbook Status
-Initial build
+Initial build phase.
 
 
 ## Requirements
